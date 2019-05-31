@@ -48,14 +48,14 @@ This PoC will provide a good opportunity for NUS-ISS to explore the benefits of 
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
-| IAN TAN ENG KIONG | A0120534W | Dialogflow Documentation|  |
-| RANA BHATTACHARJEE | A0195178N | Dialogflow Webhook Video Documentation|  |
-| YEO WHYE CHUNG NELSON | A0195405A | Dialogflow Webhook Webscraping Google Assistant|  |
+| IAN TAN ENG KIONG | A0120534W | Dialogflow, Testing, Documentation|  |
+| RANA BHATTACHARJEE | A0195178N | Dialogflow, Webhook, Video|  |
+| YEO WHYE CHUNG NELSON | A0195405A | Dialogflow, Webhook, Webscraping, Google Assistant|  |
 
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[SANA Chatbot](https://www.youtube.com/watch?v=lsLjX5LYQyo)
+[![Power Supplier Recommender](http://img.youtube.com/vi/lsLjX5LYQyo/0.jpg)](https://youtu.be/lsLjX5LYQyo "SANA Chatbot")
 
 ---
 ## SECTION 5 : PROJECT REPORT / PAPER
