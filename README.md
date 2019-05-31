@@ -45,45 +45,8 @@ This PoC will provide a good opportunity for NUS-ISS to explore the benefits of 
 [![Power Supplier Recommender](https://www.youtube.com/watch?v=lsLjX5LYQyo)]
 
 ---
-## SECTION 5 : USER GUIDE
-
-`<Github File Link>` : <https://github.com/dion797/IRS-MR-2019-01-19-IS1PT-GRP-THOR-PSR/blob/master/UserGuide/User%20Guide.pdf>
-
-### [ 1 ] To run the system using iss-vm
-
-> download pre-built virtual machine from http://bit.ly/iss-vm
-
-> start iss-vm
-
-> open terminal in iss-vm
-
-> $ git clone https://github.com/dion797/IRS-MR-2019-01-19-IS1PT-GRP-THOR-PSR.git
-
-> $ sudo apt-get install python-django
-
-> $ cd IRS-MR-2019-01-19-IS1PT-GRP-THOR-PSR/SystemCode/psr
-
-> $ python2 manage.py runserver
-
-> **Go to URL using web browser** http://localhost:8000
-
-### [ 2 ] To run the system in other/local machine:
-### Install additional necessary libraries. This application works in python 2 only.
-
-> $ sudo apt-get install python-clips clips build-essential python-dev python-pip python-django
-
-> $ pip install pyclips 
-
----
-## SECTION 6 : PROJECT REPORT / PAPER
+## SECTION 5 : PROJECT REPORT / PAPER
 
 Power_Supplier_Recommender.pdf
 `<Github File Link>` : <https://github.com/dion797/IRS-MR-2019-01-19-IS1PT-GRP-THOR-PSR/blob/master/ProjectReport/Power_Supplier_Recommender.pdf>
 
----
-## SECTION 7 : MISCELLANEOUS
-
-Power Supplier Recommender.xlsx
-`<Github File Link>` : <https://github.com/dion797/IRS-MR-2019-01-19-IS1PT-GRP-THOR-PSR/blob/master/Miscellaneous/Power%20Supplier%20Recommender.xlsx>
-
----
