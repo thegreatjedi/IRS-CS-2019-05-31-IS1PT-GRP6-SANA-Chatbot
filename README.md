@@ -42,11 +42,11 @@ This PoC will provide a good opportunity for NUS-ISS to explore the benefits of 
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![Power Supplier Recommender](https://www.youtube.com/watch?v=lsLjX5LYQyo)]
+[SANA Chatbot](https://www.youtube.com/watch?v=lsLjX5LYQyo)
 
 ---
 ## SECTION 5 : PROJECT REPORT / PAPER
 
-Power_Supplier_Recommender.pdf
-`<Github File Link>` : <https://github.com/dion797/IRS-MR-2019-01-19-IS1PT-GRP-THOR-PSR/blob/master/ProjectReport/Power_Supplier_Recommender.pdf>
+IRS-CS-Grp6 Report.pdf
+`<Github File Link>` : <https://github.com/thegreatjedi/IRS-CS-2019-05-31-IS1PT-GRP6-SANA-Chatbot/blob/master/ProjectReport/IRS-CS-GRP6%20Report.pdf>
 
