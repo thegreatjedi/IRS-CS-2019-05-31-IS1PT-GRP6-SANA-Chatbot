@@ -10,8 +10,11 @@ In this project, the team developed a proof of concept (PoC) for a chatbot assis
 Why does NUS-ISS need chatbots? User experience is of critical importance in today’s society. Hence, it is essential to create superior customer experience for potential students in finding the right course at a faster speed. Also, awareness of chatbots and interest in the capabilities of this technology is growing among consumers today. One study [Brandtzaeg and Følstad 2017] identified the main factors motivating people to interact with chatbots:
 
 •	Productivity. Chatbots provide the assistance or access to information quickly and efficiently.
+
 •	Entertainment. Chatbots amuse people by giving them funny tips, they also help killing time when users have nothing to do.
+
 •	Social and relational factors. Chatbots fuel conversions and enhance social experiences. Chatting with bots also helps to avoid loneliness, gives a chance to talk without being judged and improves conversational skills.
+
 •	Curiosity. The novelty of chatbots sparks curiosity. People want to explore their abilities and to try something new.
 
 ISS offers a large range of courses under different programmes. For this PoC, the scope of the chatbot is limited to answering questions about courses offered under the Executive Education programme. This scope covers over 100 course, organized under the following disciplines:
